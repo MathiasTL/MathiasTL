@@ -112,10 +112,10 @@ I'm a **Software Engineering student at UNMSM**, ranked in the **top third** of 
 
 ---
 
-## 🏆 GitHub Trophies
+## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-profile-trophy-fork-two.vercel.app/?username=MathiasTL&theme=nord&no-frame=true&no-bg=true&margin-w=6&row=1" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MathiasTL&theme=react-dark&hide_border=true&area=true" />
 </p>
 
 ---

@@ -58,12 +58,12 @@ I'm a **Software Engineering student at UNMSM**, ranked in the **top third** of 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Matrix1102&theme=react&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matrix1102&theme=react&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MathiasTL&theme=react&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MathiasTL&theme=react&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="165" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats-eight.vercel.app?user=Matrix1102&theme=react&hide_border=true" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=MathiasTL&theme=react&hide_border=true" />
 </p>
 
 ---
@@ -71,7 +71,7 @@ I'm a **Software Engineering student at UNMSM**, ranked in the **top third** of 
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Matrix1102&theme=nord&no-frame=true&no-bg=false&margin-w=4&row=1" />
+  <img src="https://github-profile-trophy.vercel.app/?username=MathiasTL&theme=nord&no-frame=true&no-bg=false&margin-w=4&row=1" />
 </p>
 
 ---

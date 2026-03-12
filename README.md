@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/mathias-torresl"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:mathias.torresl1102@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="/cdn-cgi/l/email-protection#a0cdc1d4c8c9c1d38ed4cfd2d2c5d3cc91919092e0c7cdc1c9cc8ec3cfcd"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://instagram.com/mathias.tl"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
   <a href="https://tiktok.com/@mathiastl"><img src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white" /></a>
 </p>
@@ -115,7 +115,7 @@ I'm a **Software Engineering student at UNMSM**, ranked in the **top third** of 
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MathiasTL&theme=nord&no-frame=true&no-bg=false&margin-w=4&row=1" />
+  <img src="https://github-profile-trophy-fork-two.vercel.app/?username=MathiasTL&theme=nord&no-frame=true&no-bg=true&margin-w=6&row=1" />
 </p>
 
 ---
@@ -129,5 +129,10 @@ I'm a **Software Engineering student at UNMSM**, ranked in the **top third** of 
 ---
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=MathiasTL&icon=6&color=0" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=RAG+%26+GenAI+Developer+%F0%9F%A4%96;LangChain+%7C+LangGraph+%7C+Qdrant+%7C+Azure+AI;Fullstack+with+Next.js+%2B+FastAPI;2nd+Hack-Nation+2025+%F0%9F%8F%86;Always+learning%2C+always+building+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
+
+---
+
+<p align="center">
+  <img src="https://visitcoun

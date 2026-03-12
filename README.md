@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Mathias Torres 👋</h1>
-<h3 align="center">Software Engineering Student · Web Developer · UNMSM</h3>
+<h3 align="center">Software Engineering Student · GenAI & RAG Developer · Fullstack · UNMSM</h3>
 
 <br/>
 
@@ -14,12 +14,43 @@
 
 ## 💫 About Me
 
-I'm a **Software Engineering student at UNMSM**, ranked in the **top third** of my class 🏅.
+I'm a **Software Engineering student at UNMSM**, ranked in the **top third** of my class 🏅, specializing in **Generative AI architectures** and **Fullstack development**.
 
-- 🔭 I build web applications using **React** and **MySQL**, with experience designing databases for real-world academic projects
-- 🌱 Currently expanding my skills in **full-stack development** and **data science**
-- 🤝 I value **teamwork**, **leadership**, and a **growth mindset**
+- 🤖 I design and implement **RAG systems** and intelligent agents using **LangChain**, **LangGraph**, and vector databases like **Qdrant** and **Azure AI Search**
+- 🌐 I build fullstack web applications with **Next.js**, **React**, **FastAPI**, and **TypeScript**
+- 🏆 Hackathon participant — **2nd Hack-Nation 2025** with an AI-powered learning platform
+- 💬 Professional English proficiency (advanced) · Bilingual support experience for the US market
+- 🤝 Scrum Master experience · I value **leadership**, **teamwork**, and **continuous learning**
 - 📍 Based in Lima, Peru 🇵🇪
+
+---
+
+## 🚀 Featured Projects
+
+### 🔥 ContentSpark — GenAI Platform for Content Creators
+> `Python` `FastAPI` `LangChain` `Groq` `Gemini API` `Qdrant` `Next.js` `TypeScript`
+
+- Designed and implemented an advanced **RAG architecture** for personalized content generation with dynamic context
+- Built hybrid model orchestration: **Gemini** for deep reasoning + **Groq** for low-latency real-time responses
+- Configured **Qdrant** for high-speed vector storage and semantic retrieval
+
+---
+
+### 🧠 ProfAI — Prompt Engineering Learning System *(2nd Hack-Nation 2025)*
+> `Python` `Flask` `Azure AI Search` `LangChain` `LangGraph` `Next.js` `TypeScript`
+
+- Led the **data ingestion pipeline**: processing and chunking technical documentation for optimized retrieval
+- Implemented **semantic search indexing** in Azure AI Search for grounded, context-aware responses
+- Delivered a functional MVP in a **21-hour global competition**, including a dynamic learning roadmap
+
+---
+
+### 🏢 SMART — Venue Booking Platform *(Academic Fullstack Project)*
+> `Next.js` `React` `TypeScript` `Oracle Database`
+
+- Implemented reviews, booking acceptance/rejection flows, and availability calendar
+- Built backend logic using **Oracle Database stored procedures, cursors, and packages**
+- Applied **Scrum** with Jira; set up a full **CI/CD pipeline** (tests, lint, build, auto-deploy)
 
 ---
 
@@ -27,31 +58,44 @@ I'm a **Software Engineering student at UNMSM**, ranked in the **top third** of 
 
 **Languages**
 
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
 
-**Frameworks & Libraries**
+**GenAI & Data**
 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
-![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat-square&logo=react-router&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat-square&logo=Matplotlib&logoColor=black)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white)
 
-**Databases & Tools**
+**Fullstack**
+
+![Next JS](https://img.shields.io/badge/Next-black?style=flat-square&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white)
+![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat-square&logo=react-router&logoColor=white)
+
+**Databases & Cloud**
 
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat-square&logo=microsoftazure&logoColor=white)
+
+**Tools & Methodology**
+
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat-square&logo=Canva&logoColor=white)
-![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=flat-square&logo=adobe%20illustrator&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat-square&logo=notion&logoColor=white)
+![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat-square&logo=jira&logoColor=white)
 
 ---
 

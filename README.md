@@ -134,5 +134,9 @@ I'm a **Software Engineering student at UNMSM**, ranked in the **top third** of 
 
 ---
 
-<p align="center">
-  <img src="https://visitcoun
+<div align="center">
+  <p><i>"Software design is about controlling complexity."</i></p>
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=MathiasTL&label=Profile+Views&color=0e75b6&style=flat" alt="Profile Views" />
+  </p>
+</div>

@@ -2,7 +2,7 @@
 <img width="100%" src="assets/banner.svg" alt="Mathias Torres — Software Engineering Student · GenAI & RAG Developer · Fullstack" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=GenAI+%26+RAG+Developer+%F0%9F%A4%96;LangChain+%7C+LangGraph+%7C+Qdrant+%7C+Azure+AI;Fullstack+with+Next.js+%2B+FastAPI;2nd+place+%C2%B7+Hack-Nation+2025+%F0%9F%8F%86;Always+learning%2C+always+building+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=GenAI+%26+RAG+Developer+%F0%9F%A4%96;LangChain+%7C+LangGraph+%7C+Qdrant+%7C+Azure+AI;Fullstack+with+Next.js+%2B+FastAPI;Hack-Nation+2025+%C2%B7+Global+AI+Hackathon+%F0%9F%8C%8D;Always+learning%2C+always+building+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -20,7 +20,7 @@ I'm a **Software Engineering student at UNMSM**, ranked in the **top third** of 
 
 - 🤖 I design and ship **RAG systems** and intelligent agents with **LangChain**, **LangGraph**, and vector databases like **Qdrant**, **pgvector** and **Azure AI Search**
 - 🌐 I build fullstack web & mobile apps with **Next.js**, **React**, **React Native**, **FastAPI** and **TypeScript**
-- 🏆 **2nd place · Hack-Nation 2025** with an AI-powered learning platform
+- 🌍 Competed in **Hack-Nation 2025**, a global AI hackathon — shipped an AI learning-platform MVP in 48h
 - 🌱 **Currently building:** [Puntualo](https://puntualo.vercel.app/) (EdTech + RAG) & Eissential (productivity)
 - 💬 Advanced English · bilingual support experience for the US market
 - 🤝 Scrum Master experience · I value **leadership**, **teamwork** and **continuous learning**
@@ -35,7 +35,7 @@ I'm a **Software Engineering student at UNMSM**, ranked in the **top third** of 
 
 <p align="center"><img src="assets/puntualo.svg" alt="Puntualo" height="70" /></p>
 
-**EdTech platform to choose professors with data, not rumors.** Full-stack role (Backend / AI) — sole owner of the end-to-end AI layer and top contributor (~40% of commits).
+**EdTech platform to choose professors with data, not rumors.** Full-stack role (Backend / AI) — sole owner of the end-to-end AI layer.
 
 `Next.js 16` · `FastAPI` · `PostgreSQL + pgvector` · `Celery` · `Cohere` · `Gemini`
 
@@ -70,7 +70,7 @@ I'm a **Software Engineering student at UNMSM**, ranked in the **top third** of 
 
 <p align="center"><img src="assets/profai.svg" alt="ProfAI" height="70" /></p>
 
-**Multi-agent AI tutor for Prompt Engineering** — *2nd place, Hack-Nation 2025* (team of 3, 48h). I led integration and built the dataset & RAG pipeline.
+**Multi-agent AI tutor for Prompt Engineering** — built at *Hack-Nation 2025*, a global AI hackathon (team of 3, 48h). I led integration and built the dataset & RAG pipeline.
 
 `Next.js 15` · `Flask` · `LangGraph` · `Azure OpenAI` · `Azure AI Search` · `PostgreSQL`
 
@@ -92,9 +92,9 @@ I'm a **Software Engineering student at UNMSM**, ranked in the **top third** of 
 | Project | What it is | Links |
 |---------|-----------|-------|
 | **AgentUP** | RAG agent over corporate docs — answers only from the sources & cites them; deployed on GCP Cloud Run | [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/MathiasTL/AgentUP) [![Live](https://img.shields.io/badge/🟢_Live-58A6FF?style=flat-square)](https://agentup-382104851468.us-central1.run.app) |
-| **Eissential** | Productivity web app fusing SMART + Eisenhower Matrix + Kanban into one opinionated flow (solo, end-to-end) | <!-- TODO: repo URL -->[![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white)](#) |
-| **FoodLinks** | Mobile app rescuing market food surplus for community kitchens; QR/PIN pickup & CO₂ tracking (React Native) | <!-- TODO: repo URL -->[![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white)](#) |
-| **SMART** | Venue booking platform with Oracle DB stored procedures & full CI/CD (academic fullstack) | <!-- TODO: repo URL -->[![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white)](#) |
+| **Eissential** | Productivity web app fusing SMART + Eisenhower Matrix + Kanban into one opinionated flow (solo, end-to-end) | ![Private](https://img.shields.io/badge/🔒_Private-6e7681?style=flat-square) |
+| **FoodLinks** | Mobile app rescuing market food surplus for community kitchens; QR/PIN pickup & CO₂ tracking (React Native) | [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/GiulianoMaPe/RedAlimentos-Compartidos-Frontend) |
+| **SMART** | Venue booking platform with Oracle DB stored procedures & full CI/CD (academic fullstack) | [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/andremelzc/smart) |
 
 <img width="100%" height="2" src="assets/divider.svg" alt="" />
 

@@ -1,19 +1,21 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 150" width="100%" preserveAspectRatio="xMidYMid meet" role="presentation">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 240" width="100%" preserveAspectRatio="xMidYMid meet" role="img" aria-label="Mathias Torres — Software Engineering Student, GenAI and RAG Developer, Fullstack">
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0%" stop-color="#58A6FF"/>
       <stop offset="100%" stop-color="#8A2BE2"/>
     </linearGradient>
   </defs>
-  <rect width="1200" height="150" fill="url(#bg)"/>
-  <g fill="#ffffff" opacity="0.10">
-    <path d="M0,95 C200,70 400,120 600,95 C800,70 1000,120 1200,95 C1400,70 1600,120 1800,95 C2000,70 2200,120 2400,95 L2400,150 L0,150 Z">
+  <rect width="1200" height="240" fill="url(#bg)"/>
+  <g fill="#ffffff" opacity="0.12">
+    <path d="M0,190 C200,160 400,220 600,190 C800,160 1000,220 1200,190 C1400,160 1600,220 1800,190 C2000,160 2200,220 2400,190 L2400,240 L0,240 Z">
       <animateTransform attributeName="transform" type="translate" from="0 0" to="-1200 0" dur="14s" repeatCount="indefinite"/>
     </path>
   </g>
-  <g fill="#ffffff" opacity="0.16">
-    <path d="M0,112 C200,90 400,135 600,112 C800,90 1000,135 1200,112 C1400,90 1600,135 1800,112 C2000,90 2200,135 2400,112 L2400,150 L0,150 Z">
+  <g fill="#ffffff" opacity="0.18">
+    <path d="M0,205 C200,180 400,235 600,205 C800,180 1000,235 1200,205 C1400,180 1600,235 1800,205 C2000,180 2200,235 2400,205 L2400,240 L0,240 Z">
       <animateTransform attributeName="transform" type="translate" from="-1200 0" to="0 0" dur="10s" repeatCount="indefinite"/>
     </path>
   </g>
+  <text x="600" y="115" text-anchor="middle" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="62" font-weight="700" fill="#ffffff" letter-spacing="1">Mathias Torres</text>
+  <text x="600" y="158" text-anchor="middle" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="21" font-weight="400" fill="#ffffff" opacity="0.92">Software Engineering Student  ·  GenAI &amp; RAG Developer  ·  Fullstack</text>
 </svg>

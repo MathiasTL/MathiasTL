@@ -1,12 +1,8 @@
 <!-- HEADER -->
-<img width="100%" src="assets/header.svg" alt="" />
+<img width="100%" src="assets/header.svg" alt="Mathias Torres — Software Engineering Student · GenAI & RAG Developer · Fullstack" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&height=65&lines=Hi%2C+I'm+Mathias+Torres+%F0%9F%91%8B" alt="Mathias Torres" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=8A2BE2&center=true&vCenter=true&width=650&lines=GenAI+%26+RAG+Developer+%F0%9F%A4%96;LangChain+%7C+LangGraph+%7C+Qdrant+%7C+Azure+AI;Fullstack+with+Next.js+%2B+FastAPI;2nd+place+%C2%B7+Hack-Nation+2025+%F0%9F%8F%86;Always+learning%2C+always+building+%F0%9F%9A%80" alt="Roles" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=GenAI+%26+RAG+Developer+%F0%9F%A4%96;LangChain+%7C+LangGraph+%7C+Qdrant+%7C+Azure+AI;Fullstack+with+Next.js+%2B+FastAPI;2nd+place+%C2%B7+Hack-Nation+2025+%F0%9F%8F%86;Always+learning%2C+always+building+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -16,7 +12,7 @@
   <a href="https://tiktok.com/@mathiastl"><img src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white" alt="TikTok" /></a>
 </p>
 
-<img width="100%" src="assets/divider.svg" alt="" />
+<img width="100%" height="2" src="assets/divider.svg" alt="" />
 
 ## 💫 About Me
 
@@ -30,7 +26,7 @@ I'm a **Software Engineering student at UNMSM**, ranked in the **top third** of 
 - 🤝 Scrum Master experience · I value **leadership**, **teamwork** and **continuous learning**
 - 📍 Based in **Lima, Perú** 🇵🇪
 
-<img width="100%" src="assets/divider.svg" alt="" />
+<img width="100%" height="2" src="assets/divider.svg" alt="" />
 
 ## 🚀 Featured Projects
 
@@ -89,7 +85,7 @@ I'm a **Software Engineering student at UNMSM**, ranked in the **top third** of 
 </td></tr>
 </table>
 
-<img width="100%" src="assets/divider.svg" alt="" />
+<img width="100%" height="2" src="assets/divider.svg" alt="" />
 
 ## 📂 More Projects
 
@@ -100,7 +96,7 @@ I'm a **Software Engineering student at UNMSM**, ranked in the **top third** of 
 | **FoodLinks** | Mobile app rescuing market food surplus for community kitchens; QR/PIN pickup & CO₂ tracking (React Native) | <!-- TODO: repo URL -->[![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white)](#) |
 | **SMART** | Venue booking platform with Oracle DB stored procedures & full CI/CD (academic fullstack) | <!-- TODO: repo URL -->[![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white)](#) |
 
-<img width="100%" src="assets/divider.svg" alt="" />
+<img width="100%" height="2" src="assets/divider.svg" alt="" />
 
 ## 🛠️ Tech Stack
 
@@ -135,7 +131,7 @@ I'm a **Software Engineering student at UNMSM**, ranked in the **top third** of 
 
 <img src="https://img.shields.io/badge/Jira-0A0FFF?style=for-the-badge&logo=jira&logoColor=white" alt="Jira" />
 
-<img width="100%" src="assets/divider.svg" alt="" />
+<img width="100%" height="2" src="assets/divider.svg" alt="" />
 
 ## 🐍 Watch my contributions get eaten
 
@@ -147,7 +143,7 @@ I'm a **Software Engineering student at UNMSM**, ranked in the **top third** of 
   </picture>
 </p>
 
-<img width="100%" src="assets/divider.svg" alt="" />
+<img width="100%" height="2" src="assets/divider.svg" alt="" />
 
 ## 📊 GitHub Stats
 
@@ -172,7 +168,7 @@ I'm a **Software Engineering student at UNMSM**, ranked in the **top third** of 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=MathiasTL&theme=react-dark&hide_border=true&area=true" alt="activity graph" />
 </p>
 
-<img width="100%" src="assets/divider.svg" alt="" />
+<img width="100%" height="2" src="assets/divider.svg" alt="" />
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=8A2BE2&center=true&vCenter=true&width=520&lines=Thanks+for+scrolling+this+far!+%F0%9F%91%8B;Let's+build+something+together." alt="closing" />

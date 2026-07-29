@@ -1,142 +1,176 @@
-<h1 align="center">Hi, I'm Mathias Torres 👋</h1>
-<h3 align="center">Software Engineering Student · GenAI & RAG Developer · Fullstack · UNMSM</h3>
-
-<br/>
+<!-- HEADER -->
+<a href="#">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,100:8A2BE2&height=200&section=header&text=Mathias%20Torres&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineering%20Student%20%C2%B7%20GenAI%20%26%20RAG%20Developer%20%C2%B7%20Fullstack&descSize=18&descAlignY=60&animation=fadeIn" alt="Mathias Torres" />
+</a>
 
 <p align="center">
-  <a href="https://linkedin.com/in/mathias-torresl"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="/cdn-cgi/l/email-protection#a0cdc1d4c8c9c1d38ed4cfd2d2c5d3cc91919092e0c7cdc1c9cc8ec3cfcd"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://instagram.com/mathias.tl"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
-  <a href="https://tiktok.com/@mathiastl"><img src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white" /></a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=GenAI+%26+RAG+Developer+%F0%9F%A4%96;LangChain+%7C+LangGraph+%7C+Qdrant+%7C+Azure+AI;Fullstack+with+Next.js+%2B+FastAPI;2nd+place+%C2%B7+Hack-Nation+2025+%F0%9F%8F%86;Always+learning%2C+always+building+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
----
+<p align="center">
+  <a href="https://linkedin.com/in/mathias-torresl"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:mathias.torresl1102@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+  <a href="https://instagram.com/mathias.tl"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="https://tiktok.com/@mathiastl"><img src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white" alt="TikTok" /></a>
+</p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3" alt="" />
 
 ## 💫 About Me
 
 I'm a **Software Engineering student at UNMSM**, ranked in the **top third** of my class 🏅, specializing in **Generative AI architectures** and **Fullstack development**.
 
-- 🤖 I design and implement **RAG systems** and intelligent agents using **LangChain**, **LangGraph**, and vector databases like **Qdrant** and **Azure AI Search**
-- 🌐 I build fullstack web applications with **Next.js**, **React**, **FastAPI**, and **TypeScript**
-- 🏆 Hackathon participant — **2nd Hack-Nation 2025** with an AI-powered learning platform
-- 💬 Professional English proficiency (advanced) · Bilingual support experience for the US market
-- 🤝 Scrum Master experience · I value **leadership**, **teamwork**, and **continuous learning**
-- 📍 Based in Lima, Peru 🇵🇪
+- 🤖 I design and ship **RAG systems** and intelligent agents with **LangChain**, **LangGraph**, and vector databases like **Qdrant**, **pgvector** and **Azure AI Search**
+- 🌐 I build fullstack web & mobile apps with **Next.js**, **React**, **React Native**, **FastAPI** and **TypeScript**
+- 🏆 **2nd place · Hack-Nation 2025** with an AI-powered learning platform
+- 🌱 **Currently building:** [Puntualo](https://puntualo.vercel.app/) (EdTech + RAG) & Eissential (productivity)
+- 💬 Advanced English · bilingual support experience for the US market
+- 🤝 Scrum Master experience · I value **leadership**, **teamwork** and **continuous learning**
+- 📍 Based in **Lima, Perú** 🇵🇪
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3" alt="" />
 
 ## 🚀 Featured Projects
 
-### 🔥 ContentSpark — GenAI Platform for Content Creators
-> `Python` `FastAPI` `LangChain` `Groq` `Gemini API` `Qdrant` `Next.js` `TypeScript`
+<table>
+<tr><td>
 
-- Designed and implemented an advanced **RAG architecture** for personalized content generation with dynamic context
-- Built hybrid model orchestration: **Gemini** for deep reasoning + **Groq** for low-latency real-time responses
-- Configured **Qdrant** for high-speed vector storage and semantic retrieval
+<p align="center"><img src="assets/puntualo.svg" alt="Puntualo" height="70" /></p>
 
----
+**EdTech platform to choose professors with data, not rumors.** Full-stack role (Backend / AI) — sole owner of the end-to-end AI layer and top contributor (~40% of commits).
 
-### 🧠 ProfAI — Prompt Engineering Learning System *(2nd Hack-Nation 2025)*
-> `Python` `Flask` `Azure AI Search` `LangChain` `LangGraph` `Next.js` `TypeScript`
+`Next.js 16` · `FastAPI` · `PostgreSQL + pgvector` · `Celery` · `Cohere` · `Gemini`
 
-- Led the **data ingestion pipeline**: processing and chunking technical documentation for optimized retrieval
-- Implemented **semantic search indexing** in Azure AI Search for grounded, context-aware responses
-- Delivered a functional MVP in a **21-hour global competition**, including a dynamic learning roadmap
+- 🧠 End-to-end **RAG assistant** with an anti-hallucination *grounding* layer that detects & corrects invented names before answering
+- 🛡️ Async pipeline validating professor profiles against **4 external sources** with circuit breakers & API budgets
+- 📊 Measured: **SUS 87.5/100** ("excellent") · load test **0% errors, p95 1.4s** @ 50 concurrent users
 
----
+<p align="center">
+  <a href="https://github.com/MiguelGironAltamirano/Puntualo"><img src="https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repo" /></a>
+  <a href="https://puntualo.vercel.app/"><img src="https://img.shields.io/badge/🟢_Live_Demo-58A6FF?style=for-the-badge&logoColor=white" alt="Live Demo" /></a>
+</p>
 
-### 🏢 SMART — Venue Booking Platform *(Academic Fullstack Project)*
-> `Next.js` `React` `TypeScript` `Oracle Database`
+</td></tr>
+<tr><td>
 
-- Implemented reviews, booking acceptance/rejection flows, and availability calendar
-- Built backend logic using **Oracle Database stored procedures, cursors, and packages**
-- Applied **Scrum** with Jira; set up a full **CI/CD pipeline** (tests, lint, build, auto-deploy)
+<p align="center"><img src="assets/contentspark.svg" alt="ContentSpark" height="70" /></p>
 
----
+**GenAI SaaS for content creators** built solo, end-to-end as full-stack / AI engineer.
+
+`FastAPI` · `LangGraph` · `Groq` · `Gemini` · `Qdrant` · `Supabase` · `Next.js 16`
+
+- 🔁 **Corrective RAG (CRAG)** pipeline with query-rewriting and automatic web-search fallback
+- ⚡ Persistent multi-chat with streaming, optimistic loading & race-condition tests
+- 🧱 ~6.3k LOC · 8 automated test suites · CI with 3 checks · 3072-dim embeddings
+
+<p align="center">
+  <a href="https://github.com/MathiasTL/ContentSpark-RAG"><img src="https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repo" /></a>
+</p>
+
+</td></tr>
+<tr><td>
+
+<p align="center"><img src="assets/profai.svg" alt="ProfAI" height="70" /></p>
+
+**Multi-agent AI tutor for Prompt Engineering** — *2nd place, Hack-Nation 2025* (team of 3, 48h). I led integration and built the dataset & RAG pipeline.
+
+`Next.js 15` · `Flask` · `LangGraph` · `Azure OpenAI` · `Azure AI Search` · `PostgreSQL`
+
+- 🕸️ **8 specialized agents** orchestrated over a LangGraph state graph
+- 📚 Curated **13-lesson** curriculum + idempotent OCR→chunk→index pipeline with error quarantine
+- ☁️ **4 Azure services** integrated (OpenAI, AI Search, Document Intelligence, Speech)
+
+<p align="center">
+  <a href="https://github.com/NickSalA/Hackaton-06-2025"><img src="https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repo" /></a>
+</p>
+
+</td></tr>
+</table>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3" alt="" />
+
+## 📂 More Projects
+
+| Project | What it is | Links |
+|---------|-----------|-------|
+| **AgentUP** | RAG agent over corporate docs — answers only from the sources & cites them; deployed on GCP Cloud Run | [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/MathiasTL/AgentUP) [![Live](https://img.shields.io/badge/🟢_Live-58A6FF?style=flat-square)](https://agentup-382104851468.us-central1.run.app) |
+| **Eissential** | Productivity web app fusing SMART + Eisenhower Matrix + Kanban into one opinionated flow (solo, end-to-end) | <!-- TODO: repo URL -->[![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white)](#) |
+| **FoodLinks** | Mobile app rescuing market food surplus for community kitchens; QR/PIN pickup & CO₂ tracking (React Native) | <!-- TODO: repo URL -->[![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white)](#) |
+| **SMART** | Venue booking platform with Oracle DB stored procedures & full CI/CD (academic fullstack) | <!-- TODO: repo URL -->[![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white)](#) |
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3" alt="" />
 
 ## 🛠️ Tech Stack
 
 **Languages**
 
-![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
+<img src="https://skillicons.dev/icons?i=python,ts,js,java,cpp,html,css" alt="languages" />
 
 **GenAI & Data**
 
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langgraph&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge&logo=qdrant&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
 **Fullstack**
 
-![Next JS](https://img.shields.io/badge/Next-black?style=flat-square&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white)
-![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat-square&logo=react-router&logoColor=white)
+<img src="https://skillicons.dev/icons?i=nextjs,react,fastapi,tailwind,nodejs,flask" alt="fullstack" />
 
 **Databases & Cloud**
 
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat-square&logo=microsoftazure&logoColor=white)
+<img src="https://skillicons.dev/icons?i=postgres,mysql,supabase,azure,gcp,docker" alt="databases and cloud" />
+&nbsp;
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
 **Tools & Methodology**
 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat-square&logo=notion&logoColor=white)
-![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat-square&logo=jira&logoColor=white)
+<img src="https://skillicons.dev/icons?i=git,github,figma,notion" alt="tools" />
+&nbsp;
+![Jira](https://img.shields.io/badge/Jira-0A0FFF?style=for-the-badge&logo=jira&logoColor=white)
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3" alt="" />
+
+## 🐍 Watch my contributions get eaten
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MathiasTL/MathiasTL/output/snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MathiasTL/MathiasTL/output/snake.svg" />
+    <img alt="snake animation" src="https://raw.githubusercontent.com/MathiasTL/MathiasTL/output/snake.svg" />
+  </picture>
+</p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3" alt="" />
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MathiasTL&theme=react&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MathiasTL&theme=react&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MathiasTL&theme=react&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" height="165" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MathiasTL&theme=react&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="165" alt="top langs" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats-eight.vercel.app?user=MathiasTL&theme=react&hide_border=true" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=MathiasTL&theme=react&hide_border=true" alt="streak" />
 </p>
-
----
-
-## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MathiasTL&theme=react-dark&hide_border=true&area=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MathiasTL&theme=react-dark&hide_border=true&area=true" alt="activity graph" />
 </p>
 
----
-
-### ✍️ Dev Quote of the Day
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3" alt="" />
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=8A2BE2&center=true&vCenter=true&width=520&lines=Thanks+for+scrolling+this+far!+%F0%9F%91%8B;Let's+build+something+together." alt="closing" />
 </p>
-
----
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=RAG+%26+GenAI+Developer+%F0%9F%A4%96;LangChain+%7C+LangGraph+%7C+Qdrant+%7C+Azure+AI;Fullstack+with+Next.js+%2B+FastAPI;2nd+Hack-Nation+2025+%F0%9F%8F%86;Always+learning%2C+always+building+%F0%9F%9A%80" alt="Typing SVG" />
-</p>
-
----
 
 <div align="center">
   <p><i>"Software design is about controlling complexity."</i></p>
-  <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=MathiasTL&label=Profile+Views&color=0e75b6&style=flat" alt="Profile Views" />
-  </p>
+  <img src="https://komarev.com/ghpvc/?username=MathiasTL&label=Profile+Views&color=58A6FF&style=flat" alt="Profile Views" />
 </div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:58A6FF&height=120&section=footer" alt="" />

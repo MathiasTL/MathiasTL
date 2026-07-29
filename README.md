@@ -1,5 +1,5 @@
 <!-- HEADER -->
-<img width="100%" src="assets/header.svg" alt="Mathias Torres — Software Engineering Student · GenAI & RAG Developer · Fullstack" />
+<img width="100%" src="assets/banner.svg" alt="Mathias Torres — Software Engineering Student · GenAI & RAG Developer · Fullstack" />
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=GenAI+%26+RAG+Developer+%F0%9F%A4%96;LangChain+%7C+LangGraph+%7C+Qdrant+%7C+Azure+AI;Fullstack+with+Next.js+%2B+FastAPI;2nd+place+%C2%B7+Hack-Nation+2025+%F0%9F%8F%86;Always+learning%2C+always+building+%F0%9F%9A%80" alt="Typing SVG" />

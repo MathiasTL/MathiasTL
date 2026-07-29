@@ -161,10 +161,6 @@ I'm a **Software Engineering student at UNMSM**, ranked in the **top third** of 
 </p>
 
 <p align="center">
-  <img height="185" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MathiasTL&theme=github_dark&utcOffset=-5" alt="productive time" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=MathiasTL&theme=react-dark&hide_border=true&area=true" alt="activity graph" />
 </p>
 

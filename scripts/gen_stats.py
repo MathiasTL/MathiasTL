@@ -15,13 +15,14 @@ import sys
 import urllib.request
 
 ORANGE = "#F5A54A"
-LEVELS = {  # contribution level -> (dot radius, opacity)
-    "NONE": (1.8, 1),
-    "FIRST_QUARTILE": (2.6, 0.45),
-    "SECOND_QUARTILE": (3.1, 0.65),
-    "THIRD_QUARTILE": (3.6, 0.85),
-    "FOURTH_QUARTILE": (4.1, 1),
+LEVELS = {  # contribution level -> square opacity
+    "NONE": 1,
+    "FIRST_QUARTILE": 0.35,
+    "SECOND_QUARTILE": 0.55,
+    "THIRD_QUARTILE": 0.8,
+    "FOURTH_QUARTILE": 1,
 }
+SQUARE, RADIUS = 11.5, 2.5  # calendar square size and corner radius
 IGNORED_LANGS = {"Jupyter Notebook", "HTML", "CSS", "Dockerfile", "Makefile", "Shell", "PLSQL", "Mako", "TeX", "PowerShell"}
 FONT = "'Segoe UI', -apple-system, Helvetica, Arial, sans-serif"
 
@@ -136,10 +137,11 @@ def render_activity(days, total, current, longest):
             if idx >= len(days):
                 break
             d = days[idx]
-            r, op = LEVELS.get(d["contributionLevel"], LEVELS["NONE"])
+            op = LEVELS.get(d["contributionLevel"], LEVELS["NONE"])
             cls = "dim" if d["contributionLevel"] == "NONE" else "on"
             dots.append(
-                f'<circle class="{cls}" cx="{x0 + col * cell + cell / 2:.1f}" cy="{y0 + row * cell + cell / 2:.1f}" r="{r}" opacity="{op}"/>'
+                f'<rect class="{cls}" x="{x0 + col * cell:.1f}" y="{y0 + row * cell:.1f}" '
+                f'width="{SQUARE}" height="{SQUARE}" rx="{RADIUS}" opacity="{op}"/>'
             )
             month = d["date"][:7]
             if row == start_row and month != month_seen and dt.date.fromisoformat(d["date"]).day <= 7:
@@ -170,7 +172,7 @@ def render_languages(langs):
         bar = []
         for j in range(dots_per_bar):
             cls = "on" if j < lit else "dim"
-            bar.append(f'<circle class="{cls}" cx="{x + 150 + j * gap}" cy="{y}" r="3"/>')
+            bar.append(f'<rect class="{cls}" x="{x + 146 + j * gap}" y="{y - 4}" width="8" height="8" rx="1.5"/>')
         parts.append(f'<g class="col" style="animation-delay:{i * 0.4:.1f}s">{"".join(bar)}</g>')
         parts.append(f'<text class="num" x="{x + 150 + dots_per_bar * gap + 8}" y="{y + 5}" font-family="{FONT}" font-size="15" font-weight="600">{share * 100:.1f}%</text>')
     rows = (len(langs) + 1) // 2

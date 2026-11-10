@@ -98,7 +98,7 @@
 
 | Project | What it is | Links |
 |---------|-----------|-------|
-| **AgentUP** | RAG agent over company docs that answers only from its sources and cites them; deployed on GCP Cloud Run | [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/MathiasTL/AgentUP) [![Live](https://img.shields.io/badge/Live-F5A54A?style=flat-square)](https://agentup-382104851468.us-central1.run.app) |
+| **AgentUP** | RAG agent over company docs that answers only from its sources and cites them; Dockerized for Cloud Run | [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/MathiasTL/AgentUP) |
 | **Flight Price Tracker** | Scheduled GitHub Actions job that tracks flight prices with SerpAPI and sends Telegram alerts | [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/MathiasTL/flight-price-tracker) |
 | **Data Mining Labs** | Credit-risk model on the Home Credit dataset, following CRISP-DM | [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/MathiasTL/data-mining-labs) |
 

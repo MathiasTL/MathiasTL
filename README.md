@@ -25,11 +25,27 @@
 <table>
 <tr><td>
 
+<p align="center"><img src="assets/contentspark.svg" alt="ContentSpark" height="70" /></p>
+
+**GenAI SaaS for content creators**, built solo end to end.
+
+`FastAPI` · `LangGraph` · `Groq` · `Gemini` · `Qdrant` · `Supabase` · `Next.js 16`
+
+- 🔁 Corrective RAG (CRAG) with query rewriting and automatic web-search fallback
+- 🧱 8 automated test suites · CI with 3 checks · streaming multi-chat
+
+<p align="center">
+  <a href="https://github.com/MathiasTL/ContentSpark-RAG"><img src="https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repo" /></a>
+</p>
+
+</td></tr>
+<tr><td>
+
 <p align="center"><img src="assets/puntualo.svg" alt="Puntualo" height="70" /></p>
 
 **EdTech platform to choose professors with data, not rumors.** I owned the AI layer end to end.
 
-`Next.js 16` · `FastAPI` · `PostgreSQL + pgvector` · `Celery` · `Cohere` · `Gemini`
+`Next.js` · `FastAPI` · `PostgreSQL + pgvector` · `Celery` · `Cohere` · `Gemini`
 
 - 🧠 RAG assistant with a grounding layer that catches invented names before answering
 - 📊 **SUS 87.5/100** · load test **0% errors, p95 1.4s** @ 50 concurrent users
@@ -42,17 +58,19 @@
 </td></tr>
 <tr><td>
 
-<p align="center"><img src="assets/contentspark.svg" alt="ContentSpark" height="70" /></p>
+<p align="center"><img src="assets/eventpro.svg" alt="EventPro" height="70" /></p>
 
-**GenAI SaaS for content creators**, built solo end to end.
+**WhatsApp quoting and operations platform for an events company in Lima.** A real client project, currently in development.
 
-`FastAPI` · `LangGraph` · `Groq` · `Gemini` · `Qdrant` · `Supabase` · `Next.js 16`
+`FastAPI` · `PostgreSQL 16` · `Redis 7` · `Chatwoot` · `WhatsApp Cloud API` · `Next.js 16`
 
-- 🔁 Corrective RAG (CRAG) with query rewriting and automatic web-search fallback
-- 🧱 8 automated test suites · CI with 3 checks · streaming multi-chat
+- 💬 Customers get a quote on WhatsApp in seconds, without waiting for a human
+- 🧱 Hexagonal architecture · 12 operational control processes · RBAC + JWT · signed PDF contracts
 
 <p align="center">
-  <a href="https://github.com/MathiasTL/ContentSpark-RAG"><img src="https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repo" /></a>
+  <a href="https://github.com/MathiasTL/EventPro-backend"><img src="https://img.shields.io/badge/Backend-181717?style=for-the-badge&logo=github&logoColor=white" alt="Backend" /></a>
+  <a href="https://github.com/MathiasTL/EventPro-frontend"><img src="https://img.shields.io/badge/Frontend-181717?style=for-the-badge&logo=github&logoColor=white" alt="Frontend" /></a>
+  <img src="https://img.shields.io/badge/In_development-B8521C?style=for-the-badge" alt="In development" />
 </p>
 
 </td></tr>
@@ -80,12 +98,19 @@
 
 | Project | What it is | Links |
 |---------|-----------|-------|
-| **AgentUP** | RAG agent over corporate docs that answers only from its sources and cites them; deployed on GCP Cloud Run | [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/MathiasTL/AgentUP) [![Live](https://img.shields.io/badge/Live-F5A54A?style=flat-square)](https://agentup-382104851468.us-central1.run.app) |
-| **Eissential** | Productivity app fusing SMART goals, the Eisenhower Matrix and Kanban (solo, end to end) | ![Private](https://img.shields.io/badge/Private-6e7681?style=flat-square) |
-| **FoodLinks** | Mobile app rescuing market food surplus for community kitchens (React Native) | [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/GiulianoMaPe/RedAlimentos-Compartidos-Frontend) |
-| **SMART** | Venue booking platform with Oracle stored procedures and full CI/CD | [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/andremelzc/smart) |
+| **AgentUP** | RAG agent over company docs that answers only from its sources and cites them; deployed on GCP Cloud Run | [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/MathiasTL/AgentUP) [![Live](https://img.shields.io/badge/Live-F5A54A?style=flat-square)](https://agentup-382104851468.us-central1.run.app) |
+| **Flight Price Tracker** | Scheduled GitHub Actions job that tracks flight prices with SerpAPI and sends Telegram alerts | [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/MathiasTL/flight-price-tracker) |
+| **Data Mining Labs** | Credit-risk model on the Home Credit dataset, following CRISP-DM | [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/MathiasTL/data-mining-labs) |
 
 </details>
+
+<img width="100%" height="2" src="assets/divider.svg" alt="" />
+
+## 📊 Activity
+
+<img width="100%" src="https://raw.githubusercontent.com/MathiasTL/MathiasTL/stats/activity.svg" alt="Contribution calendar and streaks" />
+
+<img width="100%" src="https://raw.githubusercontent.com/MathiasTL/MathiasTL/stats/languages.svg" alt="Most used languages" />
 
 <img width="100%" height="2" src="assets/divider.svg" alt="" />
 

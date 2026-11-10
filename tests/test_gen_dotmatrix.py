@@ -5,7 +5,7 @@ import os
 sys.path.insert(0, os.path.join(os.path.dirname(__file__), "..", "scripts"))
 import gen_dotmatrix as g
 
-REQUIRED = set("PuntualoContentSparkProfAI")
+REQUIRED = set("PuntualoContentSparkProfAIEventPro")
 
 
 def test_font_covers_required_chars():
